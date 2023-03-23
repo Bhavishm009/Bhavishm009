@@ -1,7 +1,7 @@
 Hi 👋 My name is Bhavish
 ========================
 
-Web Devloper
+Web Developer
 ------------
 
 * 🌍  I'm based in India

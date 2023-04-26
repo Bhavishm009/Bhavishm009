@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhavishm009@gmail.com](mailto:bhavishm009@gmail.com)
-* 🚀  I'm currently working on [Next Cart MFE](http://https://grand-truffle-943b73.netlify.app/)
+* 🚀  I'm currently working on [PHP / Laravel]
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on React, HTML, CSS
 
